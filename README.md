@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://stackblitz.com/fork/github/feathersjs/playground"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz"></a> 
   <a href="https://pr.new/github.com/feathersjs/playground"><img src="https://developer.stackblitz.com/img/open_in_codeflow.svg" alt="Open in CodeFlow"></a> <br/>
-  <a href="https://replit.com/new/github/feathersjs/playground"><img src="https://replit.com/badge/github/feathersjs/playground" alt="Run on Repl.it"></a> 
+  <a href="https://replit.com/new/github/FossPrime/playground"><img src="https://replit.com/badge/github/FossPrime/playground" alt="Run on Repl.it"></a> 
 </p>
 <br/>
 
